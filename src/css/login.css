@@ -1,0 +1,21 @@
+.login{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 42%, rgba(6,72,163,1) 55%, rgba(4,111,188,1) 67%, rgba(3,128,200,1) 76%, rgba(0,212,255,1) 100%);
+}
+
+.button{
+    display: grid;
+    justify-content: center;
+    margin: auto auto 15px;
+    min-width: 120px;
+    border: none;
+    background-color: #0d6efd;
+    color: #fff;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .15)  ;
+
+}
